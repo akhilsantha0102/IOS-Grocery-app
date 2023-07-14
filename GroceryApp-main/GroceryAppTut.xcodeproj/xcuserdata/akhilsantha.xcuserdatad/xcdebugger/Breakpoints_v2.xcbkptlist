@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "36383196-95C4-4C40-BB46-3CF5332A53AE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1951064C-1F0A-4616-A4B2-1C2032260D6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GroceryAppTut/Data.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "1951064C-1F0A-4616-A4B2-1C2032260D6F - c61e19d8953f3a52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for shopItems"
+                  moduleName = "GroceryAppTut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akhilsantha/Downloads/GroceryApp-main/GroceryAppTut/Data.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "7">
+               </Location>
+               <Location
+                  uuid = "1951064C-1F0A-4616-A4B2-1C2032260D6F - a2921f8f8c5f0cd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GroceryAppTut.shopItems.unsafeMutableAddressor : Swift.Array&lt;Swift.Array&lt;Any&gt;&gt;"
+                  moduleName = "GroceryAppTut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akhilsantha/Downloads/GroceryApp-main/GroceryAppTut/Data.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
